@@ -16,7 +16,7 @@
 - если нашли интересные места, то их можно опубликовать для сообщества на сайте https://itaisc.github.io/
 
 # Ссылки
-- Сайт про Сочи https://sochiworld.com/
+- Сайт про Сочи [https://sochiworld.com/](https://sochiworld.com/)
 
 # Правки
 
